@@ -1,0 +1,2 @@
+tensorflow==2.5.0
+tfds-nightly==4.3.0.dev202106130106
