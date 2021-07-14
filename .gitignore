@@ -144,3 +144,14 @@ ipython_config.py
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 bib_dataset_draft/**
+
+#data
+bib
+bib.zip
+via_region_data.json
+
+#model
+model.h5
+
+# weights downloaded from https://pjreddie.com/media/files/yolov3.weights
+yolov3.weights
